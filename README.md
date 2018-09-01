@@ -1,6 +1,11 @@
 # Image-Processing
 These are homeworks of image processing.
 
+## Develop tools and techniques
++ C++
++ Opencv
++ Visual Studio
+
 ## Homework1
 1. Transform RGB image to gray image
 2. Move the gray image one position to the right and calculate PSNR (Peak signal-to-noise ratio) and SSIM (structural similarity index)
